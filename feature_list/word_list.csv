@@ -1,0 +1,698 @@
+word,formal_word
+ga,tidak
+org,orang
+kpk,komisi pemberantasan korupsi
+ad,ada
+wes,udah
+oiya,oh iya
+gj,tidak jelas
+gx,tidak
+yg,yang
+abg,abang
+adl,adil
+adu,aduh
+aje,saja
+ajh,saja
+apd,anggaran pembelanjaan daerah
+aqu,aku
+atw,atau
+aya,saja
+bbm,bahan bakar minyak
+bdg,bandung
+bgt,banget
+bkl,bakal
+blg,bilang
+blh,boleh
+bln,bulan
+bnr,benar
+bny,banyak
+bpk,badan pemeriksa keuangan
+brp,berapa
+bru,saudara
+bsr,besar
+buk,ibu
+bwh,bawah
+byk,banyak
+byr,bayar
+cah,saudara
+cba,coba
+ckp,cukup
+cmn,cuman
+cok,saudara
+cth,contoh
+cwe,perempuan
+dbt,debat
+deh,udah
+dek,adek
+dgn,dengan
+dkk,dan kawan kawan
+dkt,dekat
+dlm,dalam
+dmn,di mana
+dng,dengan
+dpo,daftar pencarian orang
+dpr,dewan perwakilan rakyat
+dsb,dan sebagainya
+emg,memang
+gak,tidak
+gax,tidak
+gbk,bodohm
+gih,sana
+jga,juga
+jgn,jangan
+jkt,jakarta
+jkw,jokowi
+jln,jalan
+jml,jumlah
+jua,juga
+kak,kakak
+kbr,kabar
+kdg,kadang
+kec,kecamatan
+kga,tidak
+kgk,tidak
+klo,kalau
+klu,kalau
+klw,kalau
+kmi,kami
+kmn,ke mana
+kmu,kamu
+koq,kok
+kpd,kepada
+kpu,komisi pemilihan umum
+krj,kerja
+krl,kereta listrik
+krn,karena
+kta,kata
+ktp,kartu tanda penduduk
+ktr,kantor
+kuu,saya
+kya,seperti
+lbh,lebih
+ldr,hubungan jarak jauh
+lgi,lagi
+lht,lihat
+lho,loh
+lsg,langsung
+meh,tidak
+opo,apa
+pcr,polymerase chain reaction
+pda,pada
+pgi,pagi
+pgn,pingin,
+phk,pemberhentian hak kerja
+php,pemberian harapan palsu
+pkl,pedagang kaki lima
+plg,pulang
+pln,perusahaan listrik negara
+plz,tolong
+pns,pegawai negeri sipil
+pny,punya
+qta,kita
+rek,tidak boleh
+rmh,rumah
+sbb,sebagainya
+sbg,sebagainya
+sby,subaya
+sdg,sedang
+sek,sebentar
+sgr,segera
+sja,saja
+skg,sekarang
+skr,sekarang
+sll,selalu
+slm,selama
+smw,semua
+tdk,tidak
+teu,tau
+tgl,tanggal
+thn,tahun
+tlg,tolong
+tmn,teman
+tni,tentara negara indonesia
+tnp,tanpa
+tsb,tersebut
+ttg,tentang
+tuh,itu
+tuu,itu
+uas,ujian akhir sekolah
+udh,udah
+ugd,unit gawat darurat
+ugm,universitas gunadarma
+ukt,uang kuliah tunggal
+umr,upah minimum regional
+yag,yang
+yng,yang
+yth,yang terhormat
+adlh,adalah
+ampe,sampai
+anjg,anjing
+apbd,anggaran pembelanjaan daerah
+apbn,anggaran pembelanjaan nasinal
+aplg,apalagi
+bgmn,bagaimana
+bgsd,bangsat
+bgst,bangsat
+bgtu,begitu
+bhay,bahaya
+bhwa,bahwa
+blng,bilang
+bkin,bikin
+bner,bener
+bngt,banget
+bnyk,banyak
+bsok,besok
+btul,betul
+buru,segera
+daah,udah
+dkit,sedikit
+dmna,dimana
+dngn,dengan
+dpan,di depan
+drpd,dari pada
+dsni,di sini
+emng,emang
+gitu,begitu
+gmau,tidak mau
+bmna,gimana
+hnyay,hanya
+hoby,hobi
+jgan,jangan
+jlan,jalan
+jmlh,jumlah
+jngn,jangan
+kdrt,kekerasan dalam rumah tangga
+kmpl,kumpul
+kmrn,kemarin
+knpa,kenapa
+krim,kirim
+krja,kerja
+krmh,ke rumah
+krtu,kartu
+mgkn,mungkin
+mhon,mohon
+mkin,semakin
+mlah,malahan
+mlrg,melarang
+mnta,minta
+mrka,mereka
+msih,masih
+msuk,masuk
+ngga,tidak
+nggkmtidak
+nkr,negara republik indonesia
+nnti,nanti
+ntah,entah
+ojol,ojek online
+rmah,rumah
+rsud,rumah sakit umum daerah
+sbgn,sebagian
+sblm,sebelum
+scra,secara
+sdg,sedang
+sgtu,segitu
+shrs,seharusnya
+skrg,sekarang
+sblah,sebelah
+sllu,selalu
+slma,selama
+slmt,selamat
+smpe,sampe
+smua,semua
+dnr,sendiri
+sngt,sangat
+stgh,setengah
+stlh,setelah
+tbtb,tiba-tiba
+tdak,tidak
+ykan,iya kan
+adalh,adalah
+amrik,amerika
+anjg,anjing
+apalg,apalagi
+apayg,apa yang
+baper,bawa perasaan
+bgini,begini
+bilg,bilang
+bljar,belajar
+blnan,bulanan
+blnja,belanja
+bnget,banget
+bntar,bentar
+bnyak,banyak
+clana,celana
+cmpur,campur
+dluar,di luar
+gblk,goblok
+ibdah,ibadah
+ilang,hilang
+indon,indonesia
+inigw,ini saya
+jdnya,jadinya
+jkowi,jokowi
+jngan,jangan
+jwban,jawaban
+kader,kepala daerah
+kades,kepala desa
+knten,konten
+ktemu,ketemu
+ktika,ketika
+ktnya,katanya
+lgsug,langsung
+maalh,malah
+mbela,membela
+mberi,memberi
+mbuka,membuka
+menag,mentri agama
+menko,mentri komunikasi
+mgkin,mungkin
+mknya,makanya
+mmang,memang
+mrasa,merasa
+mrka,mereka
+msdki,maksud
+mslah,masalah
+ndiri,sendiri
+ngapa,mengapa
+ngasih,mengasih
+nggak,tidak
+ngmg,ngomong
+ngreti,mengerti
+ngrus,mengurus
+njing,anjing
+orgny,orangnya
+pdhal,padahal,pemda,pemerintah daerah
+pling,paling
+pmrth,pemerintah
+pngen,pingin
+prnah,pernah
+ptugas,petugas
+rkyat,rakyat
+sampe,sampai
+sbgai,sebagai
+sblum,sebelum
+sdgkn,sedangkan
+sekda,sekretaris daerah
+seorg,seorang
+sgala,segala
+sgini,segini
+sknrg,sekarang
+slalu,selalu
+slama,selama
+smbil,sambil
+smntr,sementar
+smoga,semoga
+sndri,sendiri
+spatu,sepatu
+sprti,seperti
+unpad,universitas padjajaran
+wagub,wakil gubernur
+banprov,bantuan provinsi
+banprop,bantuan provinsi
+brdamai,berdamai
+brdmpgn,berdampingan
+brenang,berenang
+brusaha,berusaha
+btindak,bertindak
+direkom,di rekomendasi
+dripada,dari pada
+dtempat,di tempat
+hrusnya,harusnya
+istirht,istirahat
+jmputya,jemputnya
+klakuan,kelakuan
+kliatan,keliatan
+kmudian,kemudian
+kyaknya,sepertinya
+lngsung,langsung
+mnckpi,mencukupi
+pemprov,pemerintah provinsi
+pngaruh,pengaruh
+pnyidik,penyidik
+sbagian,sebagian
+sbgmana,sebagaimana
+sbnerny,sebenarnya
+sbnrnya,sebenarnya
+sekarng,sekarang
+silhkan,silahkan
+skalian,sekalian
+smester,semester
+smuanya,semuanya
+tunjkan,tunjukan
+bgaimana,bagaimana
+brkimpul,berkumpul
+didptkan,di dapatkan
+dilkukan,di lakukan
+dlakukan,di lakukan
+dslsaikn,di selesaikan
+kbijakan,kebijakan
+kemendag,kementrian agama
+kemenhub,kementrian perhubungan
+kemenkes,kementrian kesehatan
+kemenkeu,kemetrian keeuangan
+kemensos,kementrian sosial
+masarkat,masyarakat
+mendagri,mentri dalam negri
+mnjelang,menjelang
+mnangani,menangani
+mnampung,menampung
+mlanggar,melanggar
+platihan,pelatihan
+pmasukan,pemasukan
+pmerinth,pemerintah
+rkyatnya,rakyatnya
+sdangkan,sedangkan
+sebaikny,sebaiknya
+sehrsnya,seharusnya
+gw,saya
+elu,anda
+kau,anda
+kuy,ayo
+kzl,kesal
+plz,tolong
+aing,saya
+blom,belum
+cewe,perempuan
+duid,uang
+kaga,tidak
+kece,keren
+naek,naik
+ntar,nanti
+yuk,ayo
+yukk,ayo
+ayokk,ayo
+ayok,ayo
+bacot,omong kosong
+baper,bawa perasaan
+galau,bimbang
+gatau,tidak tau
+gatuh,benar tidak
+gasih,benar tidak
+gaada,tidak ada
+gamau,tidak mau
+gausa, tidak usah
+gello,gila
+kagak,tidak
+kaget,terkejut
+lebay,berlebihan
+mamam,makan
+modar,mati
+mumet,pusing
+ngaca,refleksi
+ngacau,sembarangan
+ribet,pusing
+sebel,sebal
+sotoy,sok tahu
+gabakal,tidak akan
+gabecus,tidak becus
+gaberes,tidak beres
+gaboleh, tidak boleh
+gajelas, tidak jelas
+gakbisa,tidak bisa
+gakpeka,tidakpeka
+gapunya,tidak punya
+gasar,tidaksadar
+kumpulx,kumpulnya
+tengkyu,terima kasih
+gangerti,tidak ngerti
+gapeduli,tidak peduli
+gapernah,tidak pernah
+gasetuju,tidak setuju
+gataulah,tidak tahu
+gataunya,tidak tahu
+gregetan,kesal
+pantesan,pantas
+adaaa,ada
+bante,bantai
+bener,benar
+besuk,besok
+bntuu,bantu
+boss,bos
+buzzr,buzzer
+ceped,cepat
+cepet,cepat
+dalqm,dakan
+deket,dekat
+dapet,dapat
+gajih,gaji
+gemes,gemas
+hanyo,hanya
+inget,ingat
+jeles,jelas
+kannn,kan
+kesel,kesal
+laper,lapar
+manut,mengikuti
+mepet,berdekatan
+mosok,masa
+pakek,pakai
+pulak,pula
+puter,putar
+raiso,tidak bisa
+sajah,saja
+senen,senin
+sikit,sedikit
+sirem,siram
+soale,soalnya
+sobat,saudara
+sorga,surga
+takde,tak ada
+teges,tegas
+tiiba,tiba
+urang,orang
+vngst,bangsat
+adakalo,ada kalau
+adalagi,ada lagi
+akherat,akhirat
+akfifqq,aktif
+alesann,alasan
+anjingg,anjing
+asligak,asli gak
+asyiqqq,asik
+bahahia,bahagiabangedh,banget
+bangett,banget
+bangsad,bangsat
+bantuam,bantua
+begittu,begitu
+begituh,begitu
+begunoh,begitu
+bejibun,banyak
+belonjo,belanja
+bnyakyg,banyak yang
+buandel,bandel
+buanyak,banyak
+bulshit,omong kosongdahlahh,udah lah
+dbolein,di bolehkan
+desease,penyakit
+ditegor,ditegur
+duitgak,duit gak
+gantiin,ganti
+gemesss,gemes
+gilaaaa,gila
+guoblog,goblok
+hebattt,hebat
+ibukota,ibu kotaindnesa,indonesia
+ingetin,ingetkan
+kampret,sialan
+karepmu,terserah
+kenceng,kencang
+lebihgw,lebih gw
+lagibyk,lagi banyak
+lagikalo,lagi kalau
+lucknut,laknat
+maafgak,maaf tidak
+makanye,makanya
+makenya,makai
+maklomm,maklum
+mallitu,mall itu
+mallngk,mall ngk
+mallnya,mall nya
+mampuss,mampus
+manalbh,mana lebih
+mantabs,mantap
+mateeek,mati
+melarat,susah
+mingkem,diam
+mirisss,miris
+moodnya,suasana nya
+nakutin,menakutkan
+nandain,mendandakan
+netizen,rakyat
+pamdemi,pandemi
+parahhh,parah
+percoyo,percaya
+perkoro,perkara
+physcal,fisik
+positit,positif
+positiv,positif
+sampean,anda
+segalaa,segala
+selesei,selesai
+semabko,sembako
+susaaaah,susah
+tentrem,tentram
+udahlah,udah lah
+adudomba,adu domba
+airputih,air putih
+akhirini,akhir ini
+amaaaatt,amat
+apaaannn,apa
+apahhhhh,apa
+apakabar,apa kabar
+apaorang,apa orang
+arahbaru,arah baruaa
+yolaaaah,ayo
+dianggep,di anggap
+dibiarin,di biarin
+dibukain,di bukain
+didiemin,di diamkan
+diginiin,di ginikan
+di hadang,di hadang
+dihimbau,di himbau
+dikatain,di kata
+dilakuin,di lakukan
+dilupain,di lupakan
+dimatiin,di matikan
+dinaikin,di naikan
+disiapin,di siapkan
+diurusin,di urus
+dlakukan,dilakukan
+dukacita,duka cita
+dululagi,dulu lagi
+emangdeh,emang dah
+gadipake,tidak di pakai
+gakmudik,tidak mudik
+ginihcuma,cuma begini
+harusnyo,harus nya
+inikalau,ini kalau
+iniorang,ini orang
+initetep,ini tetap
+kayaknye,sepertinya
+lagitrus,lagi terus
+lahmudik,mudik
+lanjutke,lanajut
+lucuabis,lucu abis
+lucutapi,lucu tapi
+malemnya,malamnya
+mallrame,mall ramai
+mangsane,mangsanya
+mantaapp,mantap
+manteman,teman-teman
+matijadi,mati jadi
+monangis,mau nangis
+ngadepin,menghadapi
+ngadapin,mengahadpi
+orangiya,orang iya
+orangtua,orang tua
+pleciden,presiden
+polulasi,populasi
+prustasi,frustasi
+ramelalu,rame lalu
+rumahibu,rumah ibu
+rezekiga,rezeki tidak
+sampeyan,anda
+aamiin,amin
+aamiinnn,amin
+aaminn,amin
+acu,acuh
+adaaaaaaaaaaa,ada
+ae,saja
+agam,agama
+ahh,ah
+aj,saja
+aja,saja
+ajaa,saja
+ajadulu, saja dulu
+aktifqq,aktif
+akukgn, aku rindu
+alesan,alasan
+alesanna,alasanya
+alloh,allah
+ama,sama
+amiin,amin
+anakanak, anak anak
+andaikata, andai kata
+antre,antri
+ap,apa
+apaa,apa
+apaapa,apa
+apriljuni,april juni
+arahbaru,arah baru
+asa,asah
+asyik,asik
+aya,aja
+baangeett,sangat
+bg,bagi
+gmn,bagaimana
+yauda,ya sudah
+yatolong,ya tolong
+yasudah,ya sudah
+wargi,warga
+ud,sudah
+udamsudah
+udah,sudah
+udahhh,sudah
+udeh,sudah
+tololll,tolol
+tlah,telah
+telor,telur
+ssh,susah
+sopo,siapa
+sndiri,sendiri
+sndr,sendiri
+sma,sama
+skrang,sekarang
+semuaa,semua
+sbagai,sebagai
+sdh,sudah
+sdhlah,sudahlah
+sdng,sedang
+rame,ramai
+postiv,positif
+polis,polisi
+plisss,tolong
+plislah,tolong
+pd,pada
+ora,tidak
+ngurusi,ngurus
+ngeliat,menglihat
+ngeluh,mengeluh
+ngejalanin,menajalani
+ngejelekin,menjelekan
+ngapain,mengapa
+mo,mau
+mao,mau
+malem,malam
+males,malas
+mal,mall
+make,makai
+maen,main
+maap,maaf
+lo,kamu
+lagee,lagi
+lagiii,lagi
+lagijangan,lagi jangan
+lagiviral,lagi viral
+lagiwaras,lagi waras
+komen,komentar
+kluar,keluar
+kluarganya,keluarganya
+km,kamu
+kece,keren
+kayak,seperti
+kao,kamu
+kalem,tenang
+jg,juga
+jka,jika
+jd,jadi
+jdi,jadi
+ituloh,itu
+gtu,gitu
+gk,tidak
+gimana,bagaimana
+gilaa,gila
+gausah,tidak usah
+gajadi,tidak jadi
+gabisa,tidak bisa
+cm,cuma
+cma,cuma
